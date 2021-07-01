@@ -15,7 +15,7 @@ h2{
   background-color: rgb(50, 123, 206);
   border-radius: 0;
   border: 0;
-  height: 80px;
+  height: auto;
 }
 .navbar-brand {
   padding-top: 30px;
